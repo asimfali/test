@@ -1,0 +1,88 @@
+[
+{
+  "model": "excel.category",
+  "pk": 1,
+  "fields": {
+    "name": "500",
+    "create": "2021-09-28T09:41:13Z",
+    "update": "2021-09-28T09:41:13Z",
+    "_create": "2021-09-28T09:41:31.716Z",
+    "subName": "Комфорт",
+    "path": null
+  }
+},
+{
+  "model": "excel.category",
+  "pk": 2,
+  "fields": {
+    "name": "100",
+    "create": "2021-09-28T09:42:55Z",
+    "update": "2021-09-28T09:42:55Z",
+    "_create": "2021-09-28T09:43:03.059Z",
+    "subName": "Комфорт",
+    "path": null
+  }
+},
+{
+  "model": "excel.category",
+  "pk": 3,
+  "fields": {
+    "name": "300",
+    "create": "2021-09-28T09:43:03Z",
+    "update": "2021-09-28T09:43:03Z",
+    "_create": "2021-09-28T09:43:07.811Z",
+    "subName": "Комфорт",
+    "path": null
+  }
+},
+{
+  "model": "excel.category",
+  "pk": 4,
+  "fields": {
+    "name": "100",
+    "create": "2021-09-28T09:58:21Z",
+    "update": "2021-09-28T09:58:21Z",
+    "_create": "2021-09-28T09:59:26.543Z",
+    "subName": "Бриллиант",
+    "path": null
+  }
+},
+{
+  "model": "excel.category",
+  "pk": 5,
+  "fields": {
+    "name": "200",
+    "create": "2021-09-28T09:58:21Z",
+    "update": "2021-09-28T09:58:21Z",
+    "_create": "2021-09-28T09:59:41.363Z",
+    "subName": "Бриллиант",
+    "path": null
+  }
+},
+{
+  "model": "excel.category",
+  "pk": 6,
+  "fields": {
+    "name": "300",
+    "create": "2021-09-28T09:58:21Z",
+    "update": "2021-09-28T09:58:21Z",
+    "_create": "2021-09-28T09:59:47.760Z",
+    "subName": "Бриллиант",
+    "path": null
+  }
+},
+{
+  "model": "excel.product",
+  "pk": 1,
+  "fields": {
+    "name": "5031E",
+    "create": "2021-09-28T10:02:27Z",
+    "update": "2021-09-28T10:02:27Z",
+    "_create": "2021-09-28T10:02:37.514Z",
+    "ekd": null,
+    "electricPdf": null,
+    "passportPdf": null,
+    "category": 1
+  }
+}
+]

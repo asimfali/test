@@ -1,0 +1,12 @@
+[
+    {
+        "model": "excel.models.Category",
+        "fields": {
+            "name": "550",
+            "create": "2021-09-28T09:41:13Z",
+            "update": "2021-09-28T09:41:13Z",
+            "_create": "2021-09-28T09:41:31.716Z",
+            "subName": "Комфорт"
+        }
+    }
+]
